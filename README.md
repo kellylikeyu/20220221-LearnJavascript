@@ -1,2 +1,2 @@
 # 20220221-LearnJavascript
-Learn basic Javascript
+Learn basic Javascript from Codecademy
